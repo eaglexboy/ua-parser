@@ -1,5 +1,5 @@
 # ua-parser
-Groovy port of faisalman's ua-parser-js
+Groovy port of faisalman's ua-parser-js (http://faisalman.github.io/ua-parser-js/)
 
 
 * Author : Faisal Salman <<fyzlman@gmail.com>>
